@@ -153,7 +153,8 @@ agent: requirements
 
 ![VSCode上でのプロンプトファイル定義作成画面](./images/10-create_review_requirements_prompt.png)
 
-作成したプロンプトファイルは、Copilot Chatから`/review-requirements`で実行できます。
+作成したプロンプトファイルは、Copilot Chatから`/review-requirements`で実行できます。  
+この時、セッションターゲットに `ローカル` が選択されていることを確認して下さい。
 
 ![スラッシュコマンド実行](./images/11-execute_review_requirements_prompt.png)
 
